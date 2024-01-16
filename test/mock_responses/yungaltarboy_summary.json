@@ -1,0 +1,98 @@
+{
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy?namespace=profile-us"
+      }
+    },
+    "id": 242158744,
+    "name": "Yungaltarboy",
+    "gender": {
+      "type": "MALE",
+      "name": "Male"
+    },
+    "faction": {
+      "type": "ALLIANCE",
+      "name": "Alliance"
+    },
+    "race": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Pandaren",
+      "id": 25
+    },
+    "character_class": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Warrior",
+      "id": 1
+    },
+    "active_spec": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Protection",
+      "id": 73
+    },
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+      },
+      "name": "Proudmoore",
+      "id": 5,
+      "slug": "proudmoore"
+    },
+    "level": 26,
+    "experience": 20326,
+    "achievement_points": 1510,
+    "achievements": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/achievements?namespace=profile-us"
+    },
+    "titles": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/titles?namespace=profile-us"
+    },
+    "pvp_summary": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/pvp-summary?namespace=profile-us"
+    },
+    "encounters": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/encounters?namespace=profile-us"
+    },
+    "media": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/character-media?namespace=profile-us"
+    },
+    "last_login_timestamp": 1704833098000,
+    "average_item_level": 62,
+    "equipped_item_level": 62,
+    "specializations": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/specializations?namespace=profile-us"
+    },
+    "statistics": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/statistics?namespace=profile-us"
+    },
+    "mythic_keystone_profile": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/mythic-keystone-profile?namespace=profile-us"
+    },
+    "equipment": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/equipment?namespace=profile-us"
+    },
+    "appearance": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/appearance?namespace=profile-us"
+    },
+    "collections": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/collections?namespace=profile-us"
+    },
+    "reputations": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/reputations?namespace=profile-us"
+    },
+    "quests": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/quests?namespace=profile-us"
+    },
+    "achievements_statistics": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/achievements/statistics?namespace=profile-us"
+    },
+    "professions": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/professions?namespace=profile-us"
+    },
+    "name_search": "Yungaltarboy"
+  }

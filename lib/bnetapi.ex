@@ -1,0 +1,2 @@
+defmodule Bnetapi do
+end

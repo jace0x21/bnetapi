@@ -1,0 +1,36 @@
+{
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy/character-media?namespace=profile-us"
+      }
+    },
+    "character": {
+      "key": {
+        "href": "https://us.api.blizzard.com/profile/wow/character/proudmoore/yungaltarboy?namespace=profile-us"
+      },
+      "name": "Yungaltarboy",
+      "id": 242158744,
+      "realm": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+        },
+        "name": "Proudmoore",
+        "id": 5,
+        "slug": "proudmoore"
+      }
+    },
+    "assets": [
+      {
+        "key": "avatar",
+        "value": "https://render.worldofwarcraft.com/us/character/proudmoore/152/242158744-avatar.jpg"
+      },
+      {
+        "key": "inset",
+        "value": "https://render.worldofwarcraft.com/us/character/proudmoore/152/242158744-inset.jpg"
+      },
+      {
+        "key": "main-raw",
+        "value": "https://render.worldofwarcraft.com/us/character/proudmoore/152/242158744-main-raw.png"
+      }
+    ]
+  }
