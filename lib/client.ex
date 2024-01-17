@@ -79,10 +79,10 @@ defmodule Bnetapi.Client do
   end
 
   def finch_post(uri, headers, body) do
-    Finch.build(:post, URI.to_string(uri), headers, body) |> Finch.request(ThisFinch)
+    Finch.build(:post, URI.to_string(uri), headers, body) |> Finch.request(BnetapiFinch)
   end
 
   def finch_get(uri, headers) do
-    Finch.build(:get, URI.to_string(uri), headers) |> Finch.request(ThisFinch)
+    Finch.build(:get, URI.to_string(uri), headers) |> Finch.request(BnetapiFinch)
   end
 end

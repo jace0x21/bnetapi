@@ -10,7 +10,7 @@ defmodule Bnetapi.Application do
   @impl true
   def start(_type, args) do
     prod_children = [
-      {Finch, name: ThisFinch},
+      {Finch, name: BnetapiFinch},
       {Task.Supervisor, name: RateLimiter.TaskSupervisor},
       {Bnetapi.RequestHandler, name: RequestHandler},
       {RateLimiter.get_rate_limiter(),
